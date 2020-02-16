@@ -1,4 +1,4 @@
-const live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/";
+var live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/";
 
 // 封装异步加载资源的方法
 function loadExternalResource(url, type) {
